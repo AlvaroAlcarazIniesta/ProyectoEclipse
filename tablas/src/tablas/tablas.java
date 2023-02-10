@@ -8,6 +8,8 @@ public class tablas {
 			System.out.println(n+"x"+i+"="+n*i);
 		
 		System.out.println("AaAaAa");
+		
+		System.out.println("Algo");
 	}
 
 }
